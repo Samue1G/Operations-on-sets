@@ -1,0 +1,15 @@
+c:\users\sasha\source\repos\Conformity\Conformity\bin\Debug\Conformity.exe
+C:\Users\sasha\source\repos\Conformity\Conformity\bin\Debug\Conformity.exe.config
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.Another.resources
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.Exit.resources
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.Form1.resources
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.Properties.Resources.resources
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.SymbolConformity.resources
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.csproj.GenerateResource.Cache
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.exe
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.pdb
+C:\Users\sasha\source\repos\Conformity\Conformity\bin\Debug\Conformity.pdb
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.csprojResolveAssemblyReference.cache
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.ter.resources
+C:\Users\sasha\source\repos\Conformity\Conformity\obj\Debug\Conformity.Autors.resources
